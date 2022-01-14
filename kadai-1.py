@@ -9,3 +9,4 @@ for i in range(1,201):
         print("だいがく爆破したい")
     else:
         print(i)
+　　　　 print(i)
