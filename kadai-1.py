@@ -1,4 +1,5 @@
 for i in range(1,101):
+    
 for i in range(1,201):
     
     if i % 3 == 0:
@@ -9,4 +10,5 @@ for i in range(1,201):
         print("だいがく爆破したい")
     else:
         print(i)
-　　　　 print(i)
+        
+        print(i)
